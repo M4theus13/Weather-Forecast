@@ -6,7 +6,6 @@ function dataScreen(data) {
     document.querySelector('.weather-text').innerHTML = data.weather[0].description
     document.querySelector('.humidity').innerHTML = 'Umidade: ' + data.main.humidity + '%'
     document.querySelector('.weather-image').src = `https://openweathermap.org/img/wn/${data.weather[0].icon}.png`
-    console.log(data)
 }
 
 async function searchCity(city) {
