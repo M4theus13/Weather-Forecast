@@ -61,6 +61,10 @@ body {
     font-weight: bold;
 }
 
-.box-info, .temp, .moisture {
+.weather-text {
+    text-transform: capitalize;
+}
+
+.box-info, .city, .temp, .humidity, .weather-text, .weather-image {
     margin-top: 20px;
 }
