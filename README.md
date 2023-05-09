@@ -4,7 +4,7 @@
 
 <h4 align="center">✅ Relógio Digital 🚀 Finalizado ✅</h4>
 
-<p align="center">Web Site de previsão utilizando API do <a href='do openweathermap.org.'>Open Weather</a> e utilizando as tecnologias Html, Css e JavaScript </p>
+<p align="center">Web Site de previsão utilizando API do <a href='do openweathermap.org.'>Open Weather</a> e utilizando as tecnologias Html, Css e JavaScript. Para testar o site, segue o link a seguir <a href="https://weather-forecast.bohr.io">Link do site</a> </p>
 
 <h2>Desktop</h2>
 <div align="center">
