@@ -8,7 +8,7 @@
 
 <h2 align="center">Descrição do Projeto</h2>
 
-<h4 align="center">✅ Weather-Forecast 🚀 Finalizado ✅</h4>
+<h4 align="center">✅ Weather Forecast 🚀 Finalizado ✅</h4>
 
 <p align="center">Web Site de previsão utilizando consumo de API, o site faz a coleta da localização do usuário e mostra automaticamente a previsão do tempo em sua cidade atual, podendo também verificar a previsão em outros locais de desejo. <br/> Para testar o site, segue o link a seguir: <a href="https://weather-forecast.bohr.io">Link do site</a> </p>
 
