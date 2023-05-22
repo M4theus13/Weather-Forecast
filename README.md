@@ -26,7 +26,7 @@
 <h3>Tablet</h3>
 
 <a href='https://github.com/M4theus13'>
-    <img width="49%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Weather-Forecast/tablet.png">
+    <img width="70%" src="https://github.com/M4theus13/Assets_Projects/blob/main/Weather-Forecast/tablet.png">
 </a>
     
 <h3>Mobile</h3>
