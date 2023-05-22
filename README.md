@@ -2,7 +2,7 @@
 
 <p align="center">
  <a href="https://github.com/M4theus13/Weather-Forecast#descri%C3%A7%C3%A3o-do-projeto">Descrição do Projeto</a> •
- <a href="https://github.com/M4theus13/Weather-Forecast#resultado">Resultados</a> • 
+ <a href="https://github.com/M4theus13/Weather-Forecast#resultado">Resultado</a> • 
  <a href="https://github.com/M4theus13/Weather-Forecast#--tecnologias-">Tecnologias</a>
 </p>
 
